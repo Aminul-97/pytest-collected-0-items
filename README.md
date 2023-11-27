@@ -1,8 +1,8 @@
-# pytest-fixture-autouse-example
-This repo contains the sample code for the article - pytest fixture autouse
+# Pytest Collected 0 Items Example
+This repo contains the sample code for the article - [A Simple Guide to Fixing The 'Pytest Collected 0 Items'" Error](https://pytest-with-eric.com/introduction/pytest-collected-0-items/)
 
 # Requirements
-* Python (3.10.6)
+* Python (3.11+)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```bash
